@@ -1,5 +1,5 @@
 /***********************************************
-> Locket RevenueCat Subscriptions by nguyencongan
+> Locket RevenueCat Subscriptions 
 ***********************************************/
 
 // ========= ID ========= //
