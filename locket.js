@@ -1984,6 +1984,41 @@ if (ua.includes("Locket")) {
                             text: "Cần nạp cafein gấp",
                             text_color: "#FFFFFFE6",
                             type: "static_content"
+                         }
+                    },
+                   {
+                        overlay_id: "caption:phong_cach_du_don",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#00BCD4", "#0097A7"] },
+                            icon: { data: "", type: "emoji" },
+                            max_lines: 1,
+                            text: "Phong cách đú đởn",
+                            text_color: "#FFFFFFE6",
+                            type: "static_content"
+                          }
+                     },
+                   {
+                        overlay_id: "caption:quang_khanh_dep_trai",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#ED213A", "#93291E"] },
+                            icon: { data: "", type: "emoji" },
+                            max_lines: 1,"Quang Khánh Đẹp Trai",
+                            text_color: "#FFFFFFE6",
+                            type: "static_content"
+                            }
+                     },
+                   {
+                        overlay_id: "caption:locket_da_xac_nhan",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#ED213A", "#93291E"] },
+                            icon: { data: "✅", type: "emoji" },
+                            max_lines: 1,"Locket đã xác nhận bạn đẹp trai",
+                            text_color: "#FFFFFFE6",
+                            type: "static_content"
+                             
                         }
                     }
                 ]
