@@ -55,7 +55,6 @@ if (ua.includes("Locket")) {
                 {
                     title: "✨✨✨✨✨",
                     body: "💛💛💛💛💛💛💛💛💛💛",
-                    imageURL: "https://i.ibb.co/xkJMqKn/photo-2026-10-16-15-31-19.png"
                 
                 }
             ],
@@ -111,8 +110,8 @@ if (ua.includes("Locket")) {
         telephoto: true,
         srgb: true,
         lanczos: true,
-        quality_mbps: 1.2,
-        qualityMbps: 1.2
+        quality_mbps: 1.0,
+        qualityMbps: 1.0
     };
 
     var cameraRollConfig = {
@@ -129,8 +128,8 @@ if (ua.includes("Locket")) {
         max_file_size: 104857600,       // Cho phép file tối đa 100MB từ thư viện
         max_upload_bytes: 104857600,   // Nới lỏng giới hạn dung lượng tải lên
         max_size_bytes: 104857600,
-        quality_mbps: 1.2,
-        qualityMbps: 1.2,
+        quality_mbps: 1.0,
+        qualityMbps: 1.0,
         flash_button: true
     };
 
@@ -184,7 +183,7 @@ if (ua.includes("Locket")) {
         goldMaxDuration: durationStr,
         max_file_size: "104857600",
         max_upload_bytes: "104857600",
-        video_quality_mbps: "1.2",
+        video_quality_mbps: "1.0",
         video_sound_enabled: "true",
         microphone_enabled: "true",
         camera_microphone_enabled: "true",
@@ -302,7 +301,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://i.ibb.co/R4gh8WHW/Khung-n-ng-l-ng-Saiyan-neon-trong-su-t.png",
+            url: "https://i.postimg.cc/4NdZvFMr/7d388f60-9280-4be6-9a07-60a77b071b7a.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
@@ -615,12 +614,12 @@ if (ua.includes("Locket")) {
                 section: "🎨🎨🎨🎨🎨🎨",
                 items: [
                     {
-                        overlay_id: "caption:nca",
+                        overlay_id: "caption:nqk",
                         source: "remote",
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "nguyencongan",
+                            text: "nguyenquangkhanh",
                             text_color: "#183153",
                             type: "static_content"
                         }
