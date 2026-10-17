@@ -1975,50 +1975,27 @@ if (ua.includes("Locket")) {
                         }
                     },
                     {
-                        overlay_id: "caption:nghien_cuu_khoa_hoc",
+                        overlay_id: "caption:locket_da_xac_nhan",
                         source: "remote",
                         caption: {
                             background: { colors: ["#0F2027", "#2C5364"] },
-                            icon: { data: "☕", type: "emoji" },
+                            icon: { data: "✅", type: "emoji" },
                             max_lines: 1,
-                            text: "Cần nạp cafein gấp",
+                            text: "Locket đã xác nhận bạn đẹp trai",
                             text_color: "#FFFFFFE6",
                             type: "static_content"
                          }
                     },
-                   {
-                        overlay_id: "caption:phong_cach_du_don",
-                        source: "remote",
-                        caption: {
-                            background: { colors: ["#00BCD4", "#0097A7"] },
-                            icon: { data: "", type: "emoji" },
-                            max_lines: 1,
-                            text: "Phong cách đú đởn",
-                            text_color: "#FFFFFFE6",
-                            type: "static_content"
-                          }
-                     },
                    {
                         overlay_id: "caption:quang_khanh_dep_trai",
                         source: "remote",
                         caption: {
                             background: { colors: ["#ED213A", "#93291E"] },
                             icon: { data: "", type: "emoji" },
-                            max_lines: 1,"Quang Khánh Đẹp Trai",
+                            max_lines: 1,
+                            text: "Quang Khánh Đẹp Trai",
                             text_color: "#FFFFFFE6",
                             type: "static_content"
-                            }
-                     },
-                   {
-                        overlay_id: "caption:locket_da_xac_nhan",
-                        source: "remote",
-                        caption: {
-                            background: { colors: ["#ED213A", "#93291E"] },
-                            icon: { data: "✅", type: "emoji" },
-                            max_lines: 1,"Locket đã xác nhận bạn đẹp trai",
-                            text_color: "#FFFFFFE6",
-                            type: "static_content"
-                             
                         }
                     }
                 ]
